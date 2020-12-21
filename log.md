@@ -1,13 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day : 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:**  
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
@@ -38,3 +37,12 @@
 **Link(s) to work**
 1) Gift Ideas Tracker : https://codepen.io/AutumnTea/pen/qBaXBJV
 2) Product Landing Page : https://codepen.io/AutumnTea/pen/bGwrNEd
+
+### Day 1 : December 21 2020, Monday 
+
+**Today's Progress**: Continued the Product Landing Page, relearning Html and Css as I go. Managed to find how to get ride of the hyperlink underline (text-decoration: none;). This morning I did half an hour of JS exercices (not counted towards this challenge) on regular expressions.
+
+**Thoughts:** It took a lot of herding my brain sheep to get to coding, might be better to do my hour of coding *before* exercices. Had to finish before 18h to attend zoom presentation and started coding at 16h30. Typical. The regular expressions will be useful for my Gift Ideas Tracker in checking if a name is already there before creating a gift list. 
+
+**Link to work:** 
+1) Product Landing Page : https://codepen.io/AutumnTea/pen/bGwrNEd
