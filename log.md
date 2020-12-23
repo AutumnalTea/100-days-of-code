@@ -61,4 +61,4 @@
 
 **Thoughts:**  Is there no way to have a navbar that stays at the top while staying in the flow of the flexbox page ? 'Cause position: fixed gets the thing out of it. At least you can still use Flexbox on its content.
 
-**Link to work:** 
+**Link to work:** 1) Product Landing Page : https://codepen.io/AutumnTea/pen/bGwrNEd
