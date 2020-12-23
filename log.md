@@ -54,3 +54,11 @@
 **Thoughts:** Could not get around to coding with the repair of the plumbing issue, being able to switch to one hour exercices when needed helps me stay motivated to continue since I haven't failed yet. Helps with my general mental health as well. It makes sense to only challenge myself on days I'm not a wreck most of the day. I might pause the challenge if I end up only doing exercices too many times in a row if I'm in a mental slump but if it's only once in a while I think it still fits the challenge. 
 
 **Link to work:** 
+
+### Day 3 : December 23 2020, Wednesday
+
+**Today's Progress**: Spent the hour getting my head around CSS Flexbox, got basically want I wanted and then what I needed. 
+
+**Thoughts:**  Is there no way to have a navbar that stays at the top while staying in the flow of the flexbox page ? 'Cause position: fixed gets the thing out of it. At least you can still use Flexbox on its content.
+
+**Link to work:** 
