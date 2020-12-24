@@ -62,3 +62,12 @@
 **Thoughts:**  Is there no way to have a navbar that stays at the top while staying in the flow of the flexbox page ? 'Cause position: fixed gets the thing out of it. At least you can still use Flexbox on its content.
 
 **Link to work:** 1) Product Landing Page : https://codepen.io/AutumnTea/pen/bGwrNEd
+
+### Day 4 : December 24 2020, Thursday
+
+**Today's Progress**: "Managed" to embed a youtube video, only to discover the Framekiller technique they use when I couldn't figure out why it wasn't working. I've almost done all the user stories but want to still polish afterwards.
+
+**Thoughts:** Bastards. They give you code to put the youtube video on a page only to fuck with the video playing on said page afterwards. Double faced bastards. I took all day to motivate myself to code and ended up coding an hour and twenty minutes in the end. It was worth it, I had fun.
+
+**Link to work:** 1) Product Landing Page : https://codepen.io/AutumnTea/pen/bGwrNEd
+
