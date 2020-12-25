@@ -71,3 +71,11 @@
 
 **Link to work:** 1) Product Landing Page : https://codepen.io/AutumnTea/pen/bGwrNEd
 
+### Day 5 : December 25 2020, Friday
+
+**Today's Progress**: Finished the product landing page ! I had a hard time with media queries, will need to revisit them to master them. I'm pretty proud of myself for sticking with this challenge and seeing the project to the end.
+
+**Thoughts:**  Again, had a hard time convincing myself to code up until I just started, and then had fun. A good distraction from thinking about my family. I'm genuinly proud of myself and can't wait to show Théo. 
+
+**Link to work:** 1) Product Landing Page : https://codepen.io/AutumnTea/pen/bGwrNEd
+
