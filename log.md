@@ -79,3 +79,10 @@
 
 **Link to work:** 1) Product Landing Page : https://codepen.io/AutumnTea/pen/bGwrNEd
 
+### Day 6 : December 26 2020, Saturday
+
+**Today's Progress**: I started the next FreeCodeCamp projects, the Technical Documentation Page. It will be about HTML.
+
+**Thoughts:**  I feel awkward about HTML as a subject, which is probably why it's a good idea. I got kind of bored though and am not overjoyed at having to write it so we'll see.
+
+**Link to work:** 1) Technical Documentation Page : https://codepen.io/AutumnTea/pen/bGwYQpo
