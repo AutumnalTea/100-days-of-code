@@ -86,3 +86,11 @@
 **Thoughts:**  I feel awkward about HTML as a subject, which is probably why it's a good idea. I got kind of bored though and am not overjoyed at having to write it so we'll see.
 
 **Link to work:** 1) Technical Documentation Page : https://codepen.io/AutumnTea/pen/bGwYQpo
+
+### Day 7 : December 28 2020, Monday
+
+**Today's Progress**: Continued the technical document, wrote a few of the paragraphs then wrestled with flexbox again to get my desired nav-bar. Not quite there yet.
+
+**Thoughts:**  Missed a day yesterday, was alone and very emotional and agitated. Got my period this morning, in hindsight explains it. I keep procrastinating until one in the morning, I need to start earlier... I am still bored by subject but still think it's a good exercice in figuring out how to explain things. I wish finding the right words didn't feel like running in circles or having the ghost of a word in your mouth.
+
+**Link to work:** 1) Technical Documentation Page : https://codepen.io/AutumnTea/pen/bGwYQpo
