@@ -94,3 +94,13 @@
 **Thoughts:**  Missed a day yesterday, was alone and very emotional and agitated. Got my period this morning, in hindsight explains it. I keep procrastinating until one in the morning, I need to start earlier... I am still bored by subject but still think it's a good exercice in figuring out how to explain things. I wish finding the right words didn't feel like running in circles or having the ghost of a word in your mouth.
 
 **Link to work:** 1) Technical Documentation Page : https://codepen.io/AutumnTea/pen/bGwYQpo
+
+### Day 8 : December 29 2020, Tuesday
+
+**Today's Progress**: Kept arranging the appearance of the page.
+
+**Thoughts:**  Managed to not code at one in the morning but still quite late (20h ish). Spent the day telling myself I was about to go do it, is this the earliest I was mentally ready for it ? I might try and mentally prepare myself to code tommorrow morning and see if I can code earlier.
+
+**Link to work:** 1) Technical Documentation Page : https://codepen.io/AutumnTea/pen/bGwYQpo
+
+
