@@ -104,3 +104,11 @@
 **Link to work:** 1) Technical Documentation Page : https://codepen.io/AutumnTea/pen/bGwYQpo
 
 Got demotivated until 8th of January.
+
+### Day 9 : January 8 2021, Friday
+
+**Today's Progress**: CodingGames is a good place to code gamefied, I've worked on the length of cable problem since yesterday. Had to relearn how to find the median but it still didn't work for some. Solved for when only one point. Went looking at the forum, and realised I never sorted my Y list.... Am still figuring out how to do that.
+
+**Thoughts:**  Felt really anti-social and bad these last days, I feel unmotivated by the technical documentation page so I'll take a break or do half and half. Set up my Internet page to minimise distraction.
+
+**Link to work:** 1) https://www.codingame.com/ide/puzzle/network-cabling
