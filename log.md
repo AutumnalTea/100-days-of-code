@@ -103,4 +103,4 @@
 
 **Link to work:** 1) Technical Documentation Page : https://codepen.io/AutumnTea/pen/bGwYQpo
 
-
+Got demotivated until 8th of January.
