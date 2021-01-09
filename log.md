@@ -112,3 +112,11 @@ Got demotivated until 8th of January.
 **Thoughts:**  Felt really anti-social and bad these last days, I feel unmotivated by the technical documentation page so I'll take a break or do half and half. Set up my Internet page to minimise distraction.
 
 **Link to work:** 1) https://www.codingame.com/ide/puzzle/network-cabling
+
+### Day 10 : January 9 2021, Saturday
+
+**Today's Progress**: Used .sort((a,b) => a-b) to sort my list but it didn't pass the test for big numbers so I spent an hour relearning quicksort.
+
+**Thoughts:**  Got my hour finished in the morning which is nice. Was happy that my algorithm passed all basic tests but confused as to why it didn't pass the more advanced ones. Via forum understood why, my sorting method had a complexity of O(n²) which is bad. Looked up quicksort (with a complexity of O(log(n))) and vaguely remembered it. I spent most of the hour reading up and starting to implement it. A lot of explenations weren't clear to me until I found one that used right lists and left lists (which is how it was explained in uni).
+
+**Link to work:** 1) https://www.codingame.com/ide/puzzle/network-cabling
