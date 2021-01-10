@@ -127,4 +127,4 @@ Got demotivated until 8th of January.
 
 **Thoughts:**  I'm enjoying this and it's making me see how unefficient my code is. I feel like I'm progressing as a coder and while I still have trouble starting the hour I don't have much trouble once I've started.
 
-**Link to work:** 
+**Link to work:** 1) https://www.codingame.com/ide/puzzle/network-cabling
