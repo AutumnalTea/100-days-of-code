@@ -120,3 +120,11 @@ Got demotivated until 8th of January.
 **Thoughts:**  Got my hour finished in the morning which is nice. Was happy that my algorithm passed all basic tests but confused as to why it didn't pass the more advanced ones. Via forum understood why, my sorting method had a complexity of O(n²) which is bad. Looked up quicksort (with a complexity of O(log(n))) and vaguely remembered it. I spent most of the hour reading up and starting to implement it. A lot of explenations weren't clear to me until I found one that used right lists and left lists (which is how it was explained in uni).
 
 **Link to work:** 1) https://www.codingame.com/ide/puzzle/network-cabling
+
+### Day 11 : January 10 2021, Sunday
+
+**Today's Progress**: Still sorting my quicksort. Works but is too slow for the last test.
+
+**Thoughts:**  I'm enjoying this and it's making me see how unefficient my code is. I feel like I'm progressing as a coder and while I still have trouble starting the hour I don't have much trouble once I've started.
+
+**Link to work:** 
