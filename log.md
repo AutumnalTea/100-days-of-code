@@ -137,3 +137,11 @@ Got demotivated until 8th of January.
 
 **Link to work:** 1) https://www.codingame.com/ide/puzzle/network-cabling
                   2) https://www.codingame.com/training/easy/power-of-thor-episode-1
+
+### Day 13 : January 12 2021, Tuesday
+
+**Today's Progress**: Was all over the place, did a timed multiplayer coding comp. Was stressful but challenging. I need to get better at knowing the coding languages but I want to try it again later. Then I stuck to the porcupine puzzle. 
+
+**Thoughts:**  My brain was all over the place, couldn't figure out how to solve any at a glance so I looked for a puzzle I got at first glance.
+
+**Link to work:** 1) https://www.codingame.com/ide/puzzle/porcupine-fever
