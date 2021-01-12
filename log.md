@@ -128,3 +128,12 @@ Got demotivated until 8th of January.
 **Thoughts:**  I'm enjoying this and it's making me see how unefficient my code is. I feel like I'm progressing as a coder and while I still have trouble starting the hour I don't have much trouble once I've started.
 
 **Link to work:** 1) https://www.codingame.com/ide/puzzle/network-cabling
+
+### Day 12 : January 11 2021, Monday
+
+**Today's Progress**: Tried finishing network cabling, didn't get anywhere. So I started (and finished) Power of Thor episode 1.
+
+**Thoughts:**  Was too tired to code, went to bed, slept an hour and woke up before midnight. I stopped taking Mirtazapine and it really helped with my sleep. At least the next few days are going to be tough.
+
+**Link to work:** 1) https://www.codingame.com/ide/puzzle/network-cabling
+                  2) https://www.codingame.com/training/easy/power-of-thor-episode-1
