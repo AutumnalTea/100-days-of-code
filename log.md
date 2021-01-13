@@ -145,3 +145,11 @@ Got demotivated until 8th of January.
 **Thoughts:**  My brain was all over the place, couldn't figure out how to solve any at a glance so I looked for a puzzle I got at first glance.
 
 **Link to work:** 1) https://www.codingame.com/ide/puzzle/porcupine-fever
+
+### Day 14 : January 13 2021, Wednesday
+
+**Today's Progress**: Spent the hour on the porcupine farm, made it work for the first two example and am puzzled by the bug but should be able to figure it out next time. 
+
+**Thoughts:**  Did my hour just after a nap, which is the best way to keep doing it given how complicated sleep is at the moment. Decided to start commenting my code to make it more readable and practice for when working with other people (or just for myself given my memory).
+
+**Link to work:** 1) https://www.codingame.com/ide/puzzle/porcupine-fever
